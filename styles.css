@@ -1,10 +1,10 @@
 body{
-    background-color: midnightblue;
+    background-color: rgb(113, 6, 180);
 }
 
 header{
     background-color: rgb(255, 0, 0);
-    border: 6px solid rgb(0, 0, 0);
+    border: 6px solid rgb(246, 255, 0);
     border-radius: 16px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
@@ -14,7 +14,7 @@ header{
 }
 
 h1, h2, h3, h4, h5, h6{
-    color: black;
+    color: rgb(89, 0, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding-top: 12px;
 }
@@ -25,12 +25,12 @@ h1, h2, h3, h4, h5, h6{
     border-radius: 16px;
     font-family: inherit;
     font-weight: bold;
-    background-color: rgb(169, 169, 169);
+    background-color: rgb(255, 247, 0);
 }
 
 .top, .top_li{
     display: inline;
-    border-right: 4px solid rgb(255, 0, 0);
+    border-right: 4px solid rgb(0, 0, 0);
     padding-right: 8px;
     padding-left: 8px;
 }
@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6{
 
 .top, .top_li a {
     text-decoration: none;
-    color: black;
+    color: rgb(0, 0, 0);
     font-size: 25px;
 }
 
